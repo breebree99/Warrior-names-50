@@ -386,7 +386,7 @@ Wish
 Wolf 
 Yellow 
 
-$second name
+$phrase
 air 
 bank 
 bee 
