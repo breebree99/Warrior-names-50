@@ -387,8 +387,9 @@ Wolf
 Yellow 
 
 $phrase
-[air]
-[bank]
+[first name] [last name]
+air
+bank
 bee 
 belly 
 berry 
