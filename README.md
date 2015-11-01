@@ -1,6 +1,5 @@
 # Warrior-names-50
 $first name
-[first name prefix]
 Acorn 
 Adder 
 Adventure 
